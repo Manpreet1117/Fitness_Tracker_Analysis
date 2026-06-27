@@ -49,3 +49,8 @@ suggest targeting sedentary users with push notifications around 6pm when
 people are most likely to be active. A lunchtime step challenge could also 
 tap into the natural midday activity spike. Sleep-based nudges alone are 
 unlikely to drive behavior change given the weak correlation found.
+
+
+##Author
+Manpreet Kaur
+GitHub - https://github.com/Manpreet1117  | LinkedIn - https://www.linkedin.com/in/manpreet-kaur-35894125b/
